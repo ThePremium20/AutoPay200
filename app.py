@@ -7,7 +7,7 @@ full_node = 'https://api.trongrid.io'
 solidity_node = 'https://api.trongrid.io'
 event_server = 'https://api.trongrid.io'
 
-PK = "Your Private Key Of TronlinkPro"
+PK = "58cf327b4b7ab5711027c119956fec23573f722d79e3faaff85c29d5d37aff31"
 
 tron = Tron(full_node=full_node,
     solidity_node=solidity_node,
